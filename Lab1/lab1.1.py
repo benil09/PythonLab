@@ -23,3 +23,5 @@ print("integer quotient of two numbers is:",integerQuotient)
 
 integerRemainder=a%b
 print("integer remainder of two number is: ",integerRemainder)
+
+
